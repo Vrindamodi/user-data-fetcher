@@ -8,13 +8,13 @@ A responsive web application that fetches and displays user data from the JSONPl
 
 ##  Objectives Completed
 
-✅ Fetch data from public API using JavaScript Fetch API  
-✅ Parse JSON response data  
-✅ Display user information dynamically  
-✅ Implement error handling with try-catch  
-✅ Add reload functionality  
-✅ Create responsive, professional UI  
-✅ Test network error scenarios  
+ Fetch data from public API using JavaScript Fetch API  
+ Parse JSON response data  
+ Display user information dynamically  
+ Implement error handling with try-catch  
+ Add reload functionality  
+ Create responsive, professional UI  
+ Test network error scenarios  
 
 ---
 
@@ -203,27 +203,15 @@ users.forEach(user => {
 - **Animations**: Fade-in effects and hover transitions
 - **Icons**: Emoji icons for visual context
 
----
-
-## ✅ Learning Outcomes Achieved
-
-1. ✅ Understanding of asynchronous JavaScript
-2. ✅ Working with REST APIs
-3. ✅ JSON data parsing and manipulation
-4. ✅ Error handling in API calls
-5. ✅ DOM manipulation and dynamic content
-6. ✅ Responsive web design
-7. ✅ Modern CSS techniques (Grid, Flexbox)
-8. ✅ User experience considerations (loading states, error messages)
 
 ---
 
 ##  Browser Compatibility
 
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
+-  Chrome (latest)
+-  Firefox (latest)
+-  Safari (latest)
+-  Edge (latest)
 
 
 
